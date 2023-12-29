@@ -2,7 +2,7 @@
 
   ## Description
 
-  A personal Blog application built using Django (Python) and PostGres. Admin users create Blog posts and site visitors can view posts, comment on posts, & save posts to read later.  PostGres used for database storage. Deployed using AWS' Elastic Beanstalk.
+  A personal Blog application built using Django (Python) and PostgreSQL. Admin users create Blog posts and site visitors can view posts, comment on posts, & save posts to read later.  PostgreSQL used for database storage. Deployed using AWS' Elastic Beanstalk.
 
   ### App Screenshots
 
